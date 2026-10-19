@@ -1,0 +1,5 @@
+public interface Combatent {
+    int calcularAtac();
+    void rebreDany(int quantitat);
+    boolean estaViu();
+}   
